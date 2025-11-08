@@ -53,3 +53,5 @@ ggplot(data = Join_HDI_filtered) +
   
   # 背景などを消して、地図をスッキリさせるテーマ
   theme_void()
+
+# well done！
