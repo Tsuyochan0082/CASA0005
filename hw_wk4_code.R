@@ -9,7 +9,6 @@ library(countrycode)
 
 ## read in data
 
-```{r}
 HDI <- read_csv(here::here("data", "gender_inequality_difference2010_19.csv"),
                 locale = locale(encoding = "latin1"),
                 na = " ", skip=0)
